@@ -1,0 +1,24 @@
+h1 {font-family:Impact; text-align: center; font-size:66px ; color: red; font-style: italic;} 
+
+table {background-color: rgba(255, 255, 255, 0.5);font-size: 20;} /*He tardado 2 horas en entender como funcionaba pero queda rechulon*/h1 {
+    font-family:Impact; 
+    text-align: center; 
+    font-size:66px ; color: red; 
+    font-style: italic;
+}
+
+td {padding:20px; text-align: center;}
+
+table {
+    background-color:rgba(255, 255, 255, 0.5);
+    
+} /*He tardado 2 horas en entender como funcionaba pero queda rechulon*/
+
+div {
+    background-color: rgba(255, 255, 255, 0.562);
+    border: 2px solid rgb(0, 0, 0);
+    width: 500px;
+    font-family: Arial;
+    padding: 20px; /*Lo hice de broma y al final el pading si que servia para espaciar el texto*/
+  }
+
